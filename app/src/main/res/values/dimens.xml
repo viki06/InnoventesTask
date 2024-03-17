@@ -1,0 +1,4 @@
+<resources>
+
+    <dimen name="screen_margin">30dp</dimen>
+</resources>
